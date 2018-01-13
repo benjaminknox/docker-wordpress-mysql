@@ -1,0 +1,4 @@
+[submodule "themes/twentyseventeen"]
+	path = themes/twentyseventeen
+	url = https://github.com/WordPress/twentyseventeen
+	branch = master

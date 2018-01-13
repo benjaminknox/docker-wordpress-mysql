@@ -1,5 +1,12 @@
 # exclude database files
 database/*
 !database/.gitkeep
+# exclude plugins files
+plugins/*
+!plugins/.gitkeep
+# exclude themes files
+themes/*
+!themes/.gitkeep
+!themes/twentyseventeen
 # Exclude .env
 .env
