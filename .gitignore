@@ -1,0 +1,5 @@
+# exclude database files
+database/*
+!database/.gitkeep
+# Exclude .env
+.env
