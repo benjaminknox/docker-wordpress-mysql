@@ -8,4 +8,4 @@ do
   sleep 5
 done
 
-docker-entry-point.sh apache2-foreground
+docker-entrypoint.sh apache2-foreground
