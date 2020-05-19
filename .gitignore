@@ -10,3 +10,8 @@ themes/*
 !themes/twentyseventeen
 # Exclude .env
 .env
+/wp-content
+
+*.swp
+*.DS_Store
+
